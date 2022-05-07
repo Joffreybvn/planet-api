@@ -1,4 +1,4 @@
-# Jekyll flat API
+# Planet API documentation
 
 A Jekyll theme for API documentation. It is inspired by the beautifully designed API of <a href="https://unsplash.com/documentation">unsplash</a>. 
 
