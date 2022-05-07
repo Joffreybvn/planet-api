@@ -17,8 +17,8 @@ a {
 }
 
 .shadow-image {
-	box-shadow: 0px 0px 10px grey;
-	border-radius: 40px;
+	box-shadow: 0 0 10px grey;
+	border-radius: 30px;
 }
 
 .master-content {
@@ -54,7 +54,7 @@ a {
 
 	ul {
 		list-style-type: circle;
-		color: $bullet-color;
+		// color: $bullet-color;
 	}
 
 
@@ -165,7 +165,8 @@ a {
     	}
     }
     .nav-status {
-    	background-color: #A1FFB6;
+    	// background-color: #A1FFB6;
+		background-color: #ffa1a1;
     	padding: 4px 8px 4px 8px;
     	border-radius: 4px;
     	font-size:12px;

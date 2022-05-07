@@ -2,7 +2,7 @@
 layout: default
 title: Statistics
 order: 2
-front: true
+front: false
 permalink: /statistics/
 ---
 

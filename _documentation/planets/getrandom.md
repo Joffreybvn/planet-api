@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Get a random photo
+title: Get a random planet
 front: false
-permalink: /photos/getrandom
+permalink: /planets/getrandom
 ---
 
 ## {{page.title}}
